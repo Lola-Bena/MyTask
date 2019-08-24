@@ -9,4 +9,4 @@ Read more about flutterwave [here](https://lolabena.blogspot.com/2019/08/all-abo
 
 ## lucid.blog
 
-Read lucid.blog post [here]()
+Read lucid.blog post [here](https://lucid.blog/jemimah.vb/post/1566610812)
