@@ -5,7 +5,7 @@
 
 ## Flutterwave Inc
 
-Read more about flutterwave [here]()
+Read more about flutterwave [here](https://lolabena.blogspot.com/2019/08/all-about-flutterwave.html)
 
 ## lucid.blog
 
