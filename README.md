@@ -5,4 +5,4 @@
 
 ## lucid.blog
 
-Read lucid.blog post [here](https://lucid.blog/jemimah.vb/post/1566610812)
+Read lucid.blog post [here](https://lucid.blog/jemimah.vb/post/how-css-has-made-html-much-more-better-0b6)
